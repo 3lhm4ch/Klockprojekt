@@ -5,7 +5,7 @@ Jag har en digital klocka på en 7-segment display samt ett servo som visar temp
 
 Servo kopplat till pin 9 samt 5v & jord. 
 
-7-segment display kopplat till pin 10, 11, 12 samt 5v & jord. 
+7-segment display kopplat till pin 10, 11, 12 samt 3.3v & jord. 
 
 oled display kopplad till scl & sda samt 5v & jord. 
 
